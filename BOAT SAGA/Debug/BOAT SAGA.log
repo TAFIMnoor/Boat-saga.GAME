@@ -1,0 +1,47 @@
+﻿  main.cpp
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(21): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(45): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(46): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(58): error C2059: syntax error: '}'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(56): error C2059: syntax error: ';'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(62): error C2059: syntax error: ';'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(65): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(65): error C3484: syntax error: expected '->' before the return type
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(65): error C3613: missing return type after '->' ('int' assumed)
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(65): error C2146: syntax error: missing ';' before identifier 'setPosition'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(66): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(66): error C3484: syntax error: expected '->' before the return type
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(66): error C3613: missing return type after '->' ('int' assumed)
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(66): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(66): error C2146: syntax error: missing ';' before identifier 'draw'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(67): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(67): error C3484: syntax error: expected '->' before the return type
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(67): error C3613: missing return type after '->' ('int' assumed)
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(67): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(67): error C2086: 'int app': redefinition
+  c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(66): note: see declaration of 'app'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(67): error C2146: syntax error: missing ';' before identifier 'draw'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(68): error C2059: syntax error: 'for'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(68): error C2143: syntax error: missing ')' before ';'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(68): error C2143: syntax error: missing ';' before '<'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(68): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(68): error C2143: syntax error: missing ';' before '++'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(68): error C2086: 'int i': redefinition
+  c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(68): note: see declaration of 'i'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(68): error C2059: syntax error: ')'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(69): error C2143: syntax error: missing ';' before '{'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(69): error C2447: '{': missing function header (old-style formal list?)
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(74): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(74): error C3484: syntax error: expected '->' before the return type
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(74): error C3613: missing return type after '->' ('int' assumed)
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(74): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(74): error C2086: 'int app': redefinition
+  c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(66): note: see declaration of 'app'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(74): error C2146: syntax error: missing ';' before identifier 'display'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(75): error C2059: syntax error: '}'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(75): error C2143: syntax error: missing ';' before '}'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(78): error C2059: syntax error: '}'
+c:\users\nooruddin\desktop\sfml\boat saga\boat saga\main.cpp(78): error C2143: syntax error: missing ';' before '}'
